@@ -5,7 +5,7 @@ description: >-
   that provides natural gas distribution through New Jersey Natural Gas, retail
   energy services, midstream assets, and clean energy investments. No public
   APIs or developer portal have been identified at this time.
-type: Contract
+kind: contract
 position: Consuming
 access: 3rd-Party
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg

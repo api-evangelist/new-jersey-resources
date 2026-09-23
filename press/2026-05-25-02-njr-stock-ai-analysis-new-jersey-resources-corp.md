@@ -1,7 +1,9 @@
 ---
 title: NJR Stock AI Analysis - New Jersey Resources Corp
 url: https://danelfin.com/stock/NJR
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"New Jersey Resources" press release artificial intelligence'
 position: 2
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: Presidential Task Force on Artificial Intelligence and Digital ...
 url: https://www.nycbar.org/committees/task-force-on-digital-technologies/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"New Jersey Resources" press release artificial intelligence'
 position: 5
 source: serpapi-google
